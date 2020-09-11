@@ -66,7 +66,7 @@
 						</div>
 						<div class="con-info">
 							<span>C.</span>
-							<p>+91-8481038113, +91-7003959492</p>
+							<p>+91-7003959492, +91-8481038113</p>
 						</div>
 						<div class="con-info">
 							<span>D.</span>
