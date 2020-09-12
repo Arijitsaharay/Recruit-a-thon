@@ -30,6 +30,11 @@ $phone=$row['phone'];
 $email=$row['email'];*/
 
 ?>
+<br>
+
+            <div class="section-title">
+                <h2>ADS CREATED BY YOU</h2>
+            </div>
 <!-- PREMIUM JOB ADDS -->
 <br>
 <section class="product-filter-section">
