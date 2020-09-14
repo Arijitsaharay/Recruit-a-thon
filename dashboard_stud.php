@@ -51,7 +51,7 @@ else
 {
   echo "Not done";
 }*/
-$db=mysqli_connect("localhost","root","","job");
+$db=$conn;
   global $db;
   $get_product="SELECT * FROM stud_table WHERE user_id='$id' ";
   $run_products=mysqli_query($db,$get_product);
